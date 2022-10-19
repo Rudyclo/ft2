@@ -11,7 +11,7 @@ export default function Navbar() {
         <Link href="/about">
           <a>About</a>
         </Link>
-        <Link href="/profile">
+        <Link href="https://t3-4.vercel.app/profile">
           <a>Profile</a>
         </Link>
         <Link href="/coins">
